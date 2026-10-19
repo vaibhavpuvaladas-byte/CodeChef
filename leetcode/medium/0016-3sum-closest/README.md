@@ -43,9 +43,9 @@ Explanation: The sum that is closest to the target is 0. (0 + 0 + 0 = 0).
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms  
-**Memory:** 8.2 MB  
-**Submitted:** 2026-10-19T21:27:47.959Z  
+**Runtime:** 13 ms (beats 41.06%)  
+**Memory:** 13.9 MB (beats 85.42%)  
+**Submitted:** 2026-10-19T21:27:52.746Z  
 
 ```cpp
 class Solution {
